@@ -1,5 +1,9 @@
 ### Hi there 👋
-This is Yukun Tian's personal page!
+### This is Yukun Tian!
+
+- 🔭 I’m currently working on event-based vision and multi-modal fusion
+- 🌱 I’m currently learning "Dive into Deep Learning" & "CS231n"
+- 📫 How to reach me: email:213221787@seu.edu.cn
 
 <!--
 **TTiannaiTT/TTiannaiTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
