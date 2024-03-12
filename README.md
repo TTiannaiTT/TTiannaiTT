@@ -2,14 +2,14 @@
 ### This is Yukun Tian!
 ### It's a pleasure to meet you!
 
-- 🔭 I’m a student who is now focus on computer vision and machine learning. Currently I am working on event-based vision and multi-modal fusion.(fighting with ddl)
-- 👯 I am now studying in the Southeast University and my major is Artificial Intelligence.(I really love it!)
-- 🌱 I am now leading the R&D of my school's Robot Team.
+- 🔭 I’m a student who is now focus on computer vision and machine learning. Currently I am working on event-based vision and multi-modal fusion. (fighting with ddl /(ㄒoㄒ)/~~)
+- 👯 I am now studying in the Southeast University and my major is Artificial Intelligence. (I really love it!😊)
+- 🌱 I am now leading the R&D of my school's Robot Team. (Mainly on vision tasks 👁)
 - ⚡ Hobbies: taking photos, playing badminton, reading...
 - 📫 How to reach me: my email is 213221787@seu.edu.cn
-- 💬 Ask me about anything you are curious about me!
+- 💬 Ask me about anything you are curious about me!\\
 
-- On this website you can find #part# of my engineering and research work, but I will update it as soon as possible!
+-  ✨ On this website you can find #part# of my engineering and research work, but I will update it as soon as possible! ✨
 
 
 <!--
