@@ -7,7 +7,7 @@
 - 🌱 I am now leading the R&D of my school's Robot Team. (Mainly on vision tasks 👁)
 - ⚡ Hobbies: taking photos, playing badminton, reading...
 - 📫 How to reach me: my email is 213221787@seu.edu.cn
-- 💬 Ask me about anything you are curious about me!\\
+- 💬 Ask me about anything you are curious about me!
 
 -  ✨ On this website you can find #part# of my engineering and research work, but I will update it as soon as possible! ✨
 
