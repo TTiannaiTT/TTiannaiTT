@@ -4,7 +4,8 @@
 
 - 🔭 I’m a student who is now focusing on computer vision and machine learning. Currently I am working on event-based vision and multi-modal fusion. (fighting with ddl /(ㄒoㄒ)/~~)  
 - 👯 I am now studying in the Southeast University and my major is Artificial Intelligence. (I really love it!😊)  
-- 🌱 I am now leading the R&D of my school's Robot Team. (Mainly on vision tasks 👁)  
+- 🌱 I am now leading the R&D of my school's Robotics Team. (Mainly on vision tasks 👁)
+- 🖥️ Currently interning at Huawei as an AI Engineer, responsible for Ascend operator dev(until 2024.9).
 - ⚡ Hobbies: taking photos, playing badminton, reading...  
 - 📫 How to reach me: my email is 213221787@seu.edu.cn  
 - 💬 Ask me anything you are curious about me!  
