@@ -12,7 +12,7 @@
 
 -  ✨ On this website you can find #part# of my engineering and research work, but I will update it as soon as possible! ✨
 
-PS： Part of my work (Most of Robotics program and some open-source software) is managed using Gitee (Another code repos tool like Github). So some programs can not be found here temporarily.
+PS： Part of my work (Most of Robotics program and some open-source software) is managed using Gitee or CodeHub (Another two code repo tools like Github). So some programs can not be found here.
 
 <!--
 **TTiannaiTT/TTiannaiTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
