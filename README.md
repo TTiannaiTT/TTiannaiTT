@@ -2,7 +2,7 @@
 ### This is Yukun Tian!
 ### It's a pleasure to meet you!
 
-- 👯 I am now studying at the Southeast University and my major is Artificial Intelligence. (I really love it!😊)  
+- 👯 I am now studying at the Southeast University (in my junior year~) and my major is Artificial Intelligence. (I really love it!😊)  
 - 🔭 I’m interested in computer vision, machine learning and Robotics. Currently, I am mainly working on Multi-modal Learning (mainly about vision) and Parallel Computing. (fighting with ddl /(ㄒoㄒ)/~~)  
 - 🌱 I am now leading the R&D of my school's Robotics Team. (Mainly on vision tasks 👁)
 - 🖥️ Between 2024.7 - 2024.9, I had an internship in Huawei as an AI Engineer, where I am responsible for Ascend operator dev (not so AI🤔).
@@ -11,6 +11,10 @@
 - 💬 Ask me anything you are curious about! Find more on my [PW](https://ttiannaitt.github.io/) (Notice: Some pages are not finished yet. I'm sorry...)
 
 -  ✨ On this website you can find #part# of my engineering and research work, but I will update it as soon as possible! ✨
+### 🛠️ Current Using
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,git,ubantu)](https://skillicons.dev)  
+### 📜 Previously Used
+[![My Skills](https://skillicons.dev/icons?i=cmake,arduino,bootstrap,html,css,js,django,qt,matlab)](https://skillicons.dev)  
 
 **PS： Part of my work (Most of Robotics program and some open-source software) is managed using Gitee or CodeHub (Another two code repo tools like Github). So some programs can not be found here.**
 <!--
