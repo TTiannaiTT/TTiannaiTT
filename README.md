@@ -11,7 +11,7 @@
 - 💬 Ask me anything you are curious about! Find more on my [PW](https://ttiannaitt.github.io/) (Notice: Some pages are not finished yet. I'm sorry...)
 
 -  ✨ On this website you can find #part# of my engineering and research work, but I will update it as soon as possible! ✨
-### 🛠️ Current Using
+### 🛠️ Currently Using
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,git,ubantu)](https://skillicons.dev)  
 ### 📜 Previously Used
 [![My Skills](https://skillicons.dev/icons?i=cmake,arduino,bootstrap,html,css,js,django,qt,matlab)](https://skillicons.dev)  
