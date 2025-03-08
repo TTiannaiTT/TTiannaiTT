@@ -8,7 +8,7 @@
 - 🖥️ Between 2024.7 - 2024.9, I had an internship in Huawei as an AI Engineer, where I am responsible for Ascend operator dev (not so AI🤔).
 - ⚡ Hobbies: taking photos, playing badminton, reading...  
 - 📫 How to reach me: my email is 213221787@seu.edu.cn  
-- 💬 Ask me anything you are curious about! Find more on my [PW](https://ttiannaitt.github.io/) (Notice: Some pages are not finished yet. I'm sorry...)
+- 💬 Ask me anything you are curious about! Find more on my [PW](https://ttiannaitt.github.io/) (Notice: Some pages are still under construction. I'm sorry...)
 
 -  ✨ On this website you can find #part# of my engineering and research work, but I will update it as soon as possible! ✨
 ### 🛠️ Currently Using
