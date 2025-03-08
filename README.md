@@ -10,7 +10,7 @@
 - 📫 How to reach me: my email is 213221787@seu.edu.cn  
 - 💬 Ask me anything you are curious about! Find more on my [PW](https://ttiannaitt.github.io/) (Notice: Some pages are still under construction. I'm sorry...)
 
--  ✨ On this website you can find #part# of my engineering and research work, but I will update it as soon as possible! ✨
+-  ✨ On this website you can find #part# of my dev and research work, but I will update it as soon as possible! ✨
 ### 🛠️ Currently Using
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,git,ubantu)](https://skillicons.dev)  
 ### 📜 Previously Used
