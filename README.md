@@ -3,10 +3,9 @@
 ### It's a pleasure to meet you!
 
 - 👯 I am now studying at the Southeast University (in my junior year~) and my major is Artificial Intelligence. (I really love it!😊)  
-- 🔭 I’m interested in computer vision, machine learning and Robotics. Currently, I am mainly working on Multi-modal Learning (mainly about vision) and Parallel Computing. (fighting with ddl /(ㄒoㄒ)/~~)  
-- 🌱 I am now leading the R&D of my school's Robotics Team. (Mainly on vision tasks 👁)
-- 🖥️ Between 2024.7 - 2024.9, I had an internship in Huawei as an AI Engineer, where I am responsible for Ascend operator dev (not so AI🤔).
-- ⚡ Hobbies: taking photos, playing badminton, reading...  
+- 🔭 I’m interested in machine learning, HPC and Robotics. Currently, I am mainly working on Multi-modal Learning (mainly about vision) and ML System. (fighting with ddl /(ㄒoㄒ)/~~)  
+- 🌱 I once led the R&D of my school's RoboMaster Robotics Team. (Mainly on vision tasks 👁)
+- ⚡ Hobbies: taking photos, playing badminton, reading, ACGN...  
 - 📫 How to reach me: my email is 213221787@seu.edu.cn  
 - 💬 Ask me anything you are curious about! Find more on my [PW](https://ttiannaitt.github.io/) (Notice: Some pages are still under construction. I'm sorry...)
 
